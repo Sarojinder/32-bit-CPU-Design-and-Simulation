@@ -1,0 +1,13 @@
+db/
+incremental_db/
+simulation/
+output_files/
+
+*.bak
+*.qws
+*.sof
+*.pof
+*.rpt
+*.summary
+*.wlf
+*.exe
